@@ -1,0 +1,81 @@
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.exe.config
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.exe
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.pdb
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.csprojAssemblyReference.cache
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.Properties.Resources.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.csproj.GenerateResource.cache
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.exe
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.pdb
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.Data.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.Entities.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.Data.pdb
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.Entities.pdb
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.Login.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.csproj.CopyComplete
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\bin\Debug\MetroFramework.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.AdminProfile.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.DoctorRegistration.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.HomePage.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.PatientRegistration.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.Repository.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.Repository.pdb
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.ClinicProfile.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.ClinicRegistration.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.AdminDoctorsList.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.AdminPatientList.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.AdminClinicList.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.DoctorProfile.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.DoctorSetSchedule.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.DoctorRegReqToAdmin.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.PatientProfile.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.TakeAppointment.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.RequestedAppointment.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.Prescription.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.ClinicEditProfile.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.PatientEditProfile.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.DoctorEditProfile.resources
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.PatientWatingList.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.exe.config
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.exe
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.pdb
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.Data.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.Entities.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.Repository.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\bin\Debug\MetroFramework.Design.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\bin\Debug\MetroFramework.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\bin\Debug\MetroFramework.Fonts.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.Data.pdb
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.Entities.pdb
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\bin\Debug\ClinicManagement.Repository.pdb
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.csprojAssemblyReference.cache
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.AdminClinicList.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.AdminPatientList.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.AdminProfile.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.ClinicEditProfile.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.ClinicProfile.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.ClinicRegistration.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.AdminDoctorsList.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.DoctorEditProfile.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.DoctorProfile.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.DoctorRegistration.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.DoctorRegReqToAdmin.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.DoctorSetSchedule.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.HomePage.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.Login.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.PatientEditProfile.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.PatientHistory.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.PatientsRecords.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.PatientWatingList.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.Prescription.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.TakeAppointment.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.PatientProfile.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.PatientRegistration.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.Properties.Resources.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.RequestedAppointment.resources
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.csproj.GenerateResource.cache
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.csproj.CopyComplete
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.exe
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement\obj\Debug\ClinicManagement.pdb

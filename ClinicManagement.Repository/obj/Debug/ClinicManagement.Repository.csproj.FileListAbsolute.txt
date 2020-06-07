@@ -1,0 +1,27 @@
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Repository.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Repository.pdb
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Data.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Entities.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\bin\Debug\MetroFramework.Design.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\bin\Debug\MetroFramework.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Data.pdb
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Entities.pdb
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.csprojAssemblyReference.cache
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.csproj.CopyComplete
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.pdb
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Repository.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Repository.pdb
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Data.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Entities.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\bin\Debug\MetroFramework.Design.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\bin\Debug\MetroFramework.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\bin\Debug\MetroFramework.Fonts.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Data.pdb
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Entities.pdb
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.csprojAssemblyReference.cache
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.csproj.CopyComplete
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.pdb

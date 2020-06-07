@@ -1,0 +1,19 @@
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Data\bin\Debug\ClinicManagement.Data.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Data\bin\Debug\ClinicManagement.Data.pdb
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.csprojAssemblyReference.cache
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.pdb
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Data\bin\Debug\MetroFramework.Design.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Data\bin\Debug\MetroFramework.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Data\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hasib\OneDrive\Desktop\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.csproj.CopyComplete
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Data\bin\Debug\ClinicManagement.Data.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Data\bin\Debug\ClinicManagement.Data.pdb
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Data\bin\Debug\MetroFramework.Design.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Data\bin\Debug\MetroFramework.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Data\bin\Debug\MetroFramework.Fonts.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.csprojAssemblyReference.cache
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.csproj.CopyComplete
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.dll
+F:\Aiub 7th semester\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.pdb
